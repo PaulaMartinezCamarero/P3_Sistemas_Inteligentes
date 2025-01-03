@@ -11,7 +11,7 @@ class TurnosEnfermeria:
                 factorPenalizacionRestriccionDura: factor de penalización para las restricciones "duras"
                 numSemanas: numero de semanas sobre las que se quiere crear el calendario.
         """
-        self.factorPenalizacionRestriccionDura = 2.13
+        self.factorPenalizacionRestriccionDura = 1
         
         '''
             Estas constantes las tiene que leer de un archivo de configuración
